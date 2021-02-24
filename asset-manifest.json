@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/codebuddy-task/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/codebuddy-task/static/js/main.1241dffd.chunk.js",
+    "main.js.map": "/codebuddy-task/static/js/main.1241dffd.chunk.js.map",
+    "runtime-main.js": "/codebuddy-task/static/js/runtime-main.17110c15.js",
+    "runtime-main.js.map": "/codebuddy-task/static/js/runtime-main.17110c15.js.map",
+    "static/css/2.150d169a.chunk.css": "/codebuddy-task/static/css/2.150d169a.chunk.css",
+    "static/js/2.afbfcbe7.chunk.js": "/codebuddy-task/static/js/2.afbfcbe7.chunk.js",
+    "static/js/2.afbfcbe7.chunk.js.map": "/codebuddy-task/static/js/2.afbfcbe7.chunk.js.map",
+    "static/js/3.4407b560.chunk.js": "/codebuddy-task/static/js/3.4407b560.chunk.js",
+    "static/js/3.4407b560.chunk.js.map": "/codebuddy-task/static/js/3.4407b560.chunk.js.map",
+    "index.html": "/codebuddy-task/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/codebuddy-task/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/codebuddy-task/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.afbfcbe7.chunk.js.LICENSE.txt": "/codebuddy-task/static/js/2.afbfcbe7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17110c15.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.afbfcbe7.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.1241dffd.chunk.js"
+  ]
+}
